@@ -1,0 +1,9 @@
+d:\git\RemoteController\RemoteController\RemoteController.Core\bin\Debug\netstandard2.0\RemoteController.Core.deps.json
+d:\git\RemoteController\RemoteController\RemoteController.Core\bin\Debug\netstandard2.0\RemoteController.Core.dll
+d:\git\RemoteController\RemoteController\RemoteController.Core\bin\Debug\netstandard2.0\RemoteController.Core.pdb
+d:\git\RemoteController\RemoteController\RemoteController.Core\obj\Debug\netstandard2.0\RemoteController.Core.csprojAssemblyReference.cache
+d:\git\RemoteController\RemoteController\RemoteController.Core\obj\Debug\netstandard2.0\RemoteController.Core.csproj.CoreCompileInputs.cache
+d:\git\RemoteController\RemoteController\RemoteController.Core\obj\Debug\netstandard2.0\RemoteController.Core.AssemblyInfoInputs.cache
+d:\git\RemoteController\RemoteController\RemoteController.Core\obj\Debug\netstandard2.0\RemoteController.Core.AssemblyInfo.cs
+d:\git\RemoteController\RemoteController\RemoteController.Core\obj\Debug\netstandard2.0\RemoteController.Core.dll
+d:\git\RemoteController\RemoteController\RemoteController.Core\obj\Debug\netstandard2.0\RemoteController.Core.pdb

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "A9sjPRsoNGnMwSAD8kgDx3hon9rf94vxJQCNCzTT9XtW4NgAFX3xO81K/JcN1JH2RyMicnzNDwHlBH2dtPVo5g==",
+  "success": true,
+  "projectFilePath": "d:\\git\\RemoteController\\RemoteController\\RemoteController.ProcessManager\\RemoteController.ProcessManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ymliu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ymliu\\.nuget\\packages\\system.codedom\\4.7.0\\system.codedom.4.7.0.nupkg.sha512",
+    "C:\\Users\\ymliu\\.nuget\\packages\\system.management\\4.7.0\\system.management.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

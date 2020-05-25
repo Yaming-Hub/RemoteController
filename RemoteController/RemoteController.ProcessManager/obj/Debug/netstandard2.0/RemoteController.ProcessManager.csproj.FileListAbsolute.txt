@@ -1,0 +1,12 @@
+d:\git\RemoteController\RemoteController\RemoteController.ProcessManager\bin\Debug\netstandard2.0\RemoteController.ProcessManager.deps.json
+d:\git\RemoteController\RemoteController\RemoteController.ProcessManager\bin\Debug\netstandard2.0\RemoteController.ProcessManager.dll
+d:\git\RemoteController\RemoteController\RemoteController.ProcessManager\bin\Debug\netstandard2.0\RemoteController.ProcessManager.pdb
+d:\git\RemoteController\RemoteController\RemoteController.ProcessManager\bin\Debug\netstandard2.0\RemoteController.Core.dll
+d:\git\RemoteController\RemoteController\RemoteController.ProcessManager\bin\Debug\netstandard2.0\RemoteController.Core.pdb
+d:\git\RemoteController\RemoteController\RemoteController.ProcessManager\obj\Debug\netstandard2.0\RemoteController.ProcessManager.csprojAssemblyReference.cache
+d:\git\RemoteController\RemoteController\RemoteController.ProcessManager\obj\Debug\netstandard2.0\RemoteController.ProcessManager.AssemblyInfoInputs.cache
+d:\git\RemoteController\RemoteController\RemoteController.ProcessManager\obj\Debug\netstandard2.0\RemoteController.ProcessManager.AssemblyInfo.cs
+d:\git\RemoteController\RemoteController\RemoteController.ProcessManager\obj\Debug\netstandard2.0\RemoteController.ProcessManager.csproj.CopyComplete
+d:\git\RemoteController\RemoteController\RemoteController.ProcessManager\obj\Debug\netstandard2.0\RemoteController.ProcessManager.dll
+d:\git\RemoteController\RemoteController\RemoteController.ProcessManager\obj\Debug\netstandard2.0\RemoteController.ProcessManager.pdb
+d:\git\RemoteController\RemoteController\RemoteController.ProcessManager\obj\Debug\netstandard2.0\RemoteController.ProcessManager.csproj.CoreCompileInputs.cache
